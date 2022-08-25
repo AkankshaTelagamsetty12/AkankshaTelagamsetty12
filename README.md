@@ -1,11 +1,13 @@
 ### Hi, I'm Akanksha! 👋
 
+Interested in :  Data Science | Machine Learning | Intelligent Analytics
+
+- 🔭 I’m currently working on Heart Analysis using ECG and Heart Disease Classification
+
+
 <!--
 **AkankshaTelagamsetty12/AkankshaTelagamsetty12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:  Data Science | Machine Learning | Intelligent Analytics
-
-- 🔭 I’m currently working on Heart Analysis using ECG and Heart Disease Classification
 
 -->
 
