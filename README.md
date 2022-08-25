@@ -2,8 +2,7 @@
 
 #### Interested in :  Data Science | Machine Learning | Intelligent Analytics
 
-
-- 🔭 I’m currently working on Heart Analysis using ECG and Heart Disease Classification
+#### Skills:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -20,6 +19,9 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
+
+
+- 🔭 I’m currently working on Heart Analysis using ECG and Heart Disease Classification
 
 <!--
 **AkankshaTelagamsetty12/AkankshaTelagamsetty12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
