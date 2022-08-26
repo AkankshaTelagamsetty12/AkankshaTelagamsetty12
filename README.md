@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Akanksha</h1>
+<h1 align="center">Hi, I'm Akanksha! 👋 </h1>
 <h3 align="center">Interested in : Data Science | Machine Learning | Intelligent Analytics </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akankshatelagamsetty12&label=Profile%20views&color=0e75b6&style=flat" alt="akankshatelagamsetty12" /> </p>
