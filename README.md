@@ -28,3 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akankshatelagamsetty12&show_icons=true&locale=en&layout=compact" alt="akankshatelagamsetty12" /></p>
 
+
+
+[![Akanksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkankshaTelagamsetty12)](https://github.com/AkankshaTelagamsetty12/github-readme-stats)
+
