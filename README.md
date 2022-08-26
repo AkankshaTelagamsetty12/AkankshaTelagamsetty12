@@ -1,41 +1,7 @@
-### Hi, I'm Akanksha! 👋
-
-#### Interested in :  Data Science | Machine Learning | Intelligent Analytics
-
-#### Skills:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
-
-
-
-- 🔭 I’m currently working on Heart Analysis using ECG and Heart Disease Classification
-
-<!--
-**AkankshaTelagamsetty12/AkankshaTelagamsetty12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
--->
-
-[![Akanksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkankshaTelagamsetty12)](https://github.com/AkankshaTelagamsetty12/github-readme-stats)
-
 
 
 <h1 align="center">Hi 👋, I'm Akanksha</h1>
-<h3 align="center">A passionate data scientist from India!</h3>
+<h3 align="center">Interested in : Data Science | Machine Learning | Intelligent Analytics </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akankshatelagamsetty12&label=Profile%20views&color=0e75b6&style=flat" alt="akankshatelagamsetty12" /> </p>
 
