@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Heart Analysis using ECG and Heart Disease Classification**
 
-- 📝 I regularly write articles on [https://medium.com/at2424](https://medium.com/at2424)
+- 📝 I regularly write articles on [https://medium.com/@at2424](https://medium.com/at2424)
 
 - 📫 How to reach me **akankshatelagamsetty@gmail.com**
 
