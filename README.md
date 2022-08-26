@@ -3,9 +3,6 @@
 <h1 align="center">Hi, I'm Akanksha! 👋 </h1>
 <h3 align="center">Interested in : Data Science | Machine Learning | Intelligent Analytics </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akankshatelagamsetty12&label=Profile%20views&color=0e75b6&style=flat" alt="akankshatelagamsetty12" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akankshatelagamsetty12" alt="akankshatelagamsetty12" /></a> </p>
 
 - 🔭 I’m currently working on **Heart Analysis using ECG and Heart Disease Classification**
 
