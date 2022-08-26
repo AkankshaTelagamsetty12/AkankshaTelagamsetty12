@@ -8,7 +8,6 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@at2424)
 
-- 📫 How to reach me [here] (akankshatelagamsetty@gmail.com) **akankshatelagamsetty@gmail.com**
 
 
 
